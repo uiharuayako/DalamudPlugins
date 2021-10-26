@@ -8,6 +8,11 @@
         "ApplicableVersion": "any",
         "RepoUrl": "https://github.com/uiharuayako/FFXIV.WinTitle",
         "DalamudApiLevel": 4,
-        "LoadPriority": 0
+        "LoadPriority": 0,
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/WinTitle/latest.zip",
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/WinTitle/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/WinTitle/latest.zip"
       }
 ]
