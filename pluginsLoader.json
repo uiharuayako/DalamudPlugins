@@ -1,49 +1,36 @@
 [
-  {
-    "Author": "Eternita",
-    "Name": "DSR Toolbox",
-    "InternalName": "DSREyeLocator",
-    "AssemblyVersion": "2.0.0.6",
-    "Description": "Current functions:\nResolve eyes position\nWroth flames automarker (whole group and personal)\nTether to your chain partner",
-    "ApplicableVersion": "any",
-    "DalamudApiLevel": 6,
-    "LoadPriority": 0,
-    "ImageUrls": [],
-    "Punchline": "A helper plugin for Dragonsong's Reprise (Ultimate).",
-    "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/DSREyeLocator/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/DSREyeLocator/latest.zip",
-    "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/DSREyeLocator/latest.zip"
-  },
       {
-        "AssemblyVersion": "2.1.0.1",
-        "Disabled": false,
-        "Testing": false,
-        "InstalledFromUrl": null,
-        "IsThirdParty": false,
-        "Author": "Eternita",
-        "Name": "Splatoon",
-        "Punchline": null,
-        "Description": "Adds custom waymark system into the game, allowing drawing infinite amount of waymarks in world and highlighting objects, players and enemies",
+        "Author": "moewcorp",
+        "Name": "Auto Action-u",
+        "Punchline": "Teach you how to perform better in combat! -- gamous",
+        "Description": "本插件开源免费!如经过付费渠道获取本插件,请找你付费的渠道更新它维护的版本,本仓库维护的版本不接受任何付费渠道获取!\n如果有不好用的地方或者循环不合理，或者某职业需要添加选项，请及时联系，谢谢！",
         "Changelog": null,
-        "Tags": null,
-        "CategoryTags": null,
+        "Tags": [
+          "Attack"
+        ],
+        "CategoryTags": [
+          "jobs"
+        ],
         "IsHide": false,
-        "InternalName": "Splatoon",
+        "InternalName": "AutoAction_CN",
+        "AssemblyVersion": "0.11.0.2",
         "TestingAssemblyVersion": null,
         "IsTestingExclusive": false,
-        "RepoUrl": "https://github.com/Eternita-S/Splatoon",
+        "RepoUrl": "https://github.com/moewcorp/AutoAction",
         "ApplicableVersion": "any",
-        "DalamudApiLevel": 6,
+        "DalamudApiLevel": 7,
         "DownloadCount": 0,
         "LastUpdate": 0,
-        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Splatoon/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Splatoon/latest.zip",
-        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Splatoon/latest.zip",
-        "LoadPriority": 0,
-        "ImageUrls": null,
-        "IconUrl": null,
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoAction/AutoAction_CN.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoAction/AutoAction_CN.zip",
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoAction/AutoAction_CN.zip",
+        "ImageUrls": [
+          "https://raw.githubusercontent.com/moewcorp/AutoAction/master/gifs/ExampleDNC.gif"
+        ],
+        "IconUrl": "https://raw.githubusercontent.com/moewcorp/AutoAction/master/XIVAutoAttackIcon.png",
         "AcceptsFeedback": true,
         "FeedbackMessage": null,
-        "FeedbackWebhook": null
+        "_isDip17Plugin": false,
+        "_Dip17Channel": null
       }
 ]
