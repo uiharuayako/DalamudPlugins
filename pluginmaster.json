@@ -1,0 +1,74 @@
+[
+    {
+        "Author": "Uiharu",
+        "Name": "XCount",
+        "Punchline": "\u8ba1\u7b97\u4f60\u5468\u56f4\u7269\u4f53\u7684\u6570\u91cf",
+        "Description": "/xc \u663e\u793agui",
+        "InternalName": "XCount",
+        "AssemblyVersion": "0.1.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "radar",
+            "plugin"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XCount/master/Data/XC.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1679737273"
+    },
+    {
+        "Author": "moewcorp",
+        "Name": "Auto Action",
+        "Punchline": "Teach you how to perform better in combat! -- gamous",
+        "Description": "\u672c\u63d2\u4ef6\u5f00\u6e90\u514d\u8d39!\u5982\u7ecf\u8fc7\u4ed8\u8d39\u6e20\u9053\u83b7\u53d6\u672c\u63d2\u4ef6,\u8bf7\u627e\u4f60\u4ed8\u8d39\u7684\u6e20\u9053\u66f4\u65b0\u5b83\u7ef4\u62a4\u7684\u7248\u672c,\u672c\u4ed3\u5e93\u7ef4\u62a4\u7684\u7248\u672c\u4e0d\u63a5\u53d7\u4efb\u4f55\u4ed8\u8d39\u6e20\u9053\u83b7\u53d6!\n\u5982\u679c\u6709\u4e0d\u597d\u7528\u7684\u5730\u65b9\u6216\u8005\u5faa\u73af\u4e0d\u5408\u7406\uff0c\u6216\u8005\u67d0\u804c\u4e1a\u9700\u8981\u6dfb\u52a0\u9009\u9879\uff0c\u8bf7\u53ca\u65f6\u8054\u7cfb\uff0c\u8c22\u8c22\uff01",
+        "InternalName": "AutoCombo_CN",
+        "AssemblyVersion": "0.11.0",
+        "RepoUrl": "https://github.com/moewcorp/AutoAction",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Attack"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/moewcorp/AutoAction/master/XIVAutoAttackIcon.png",
+        "ImageUrls": [
+            "https://raw.githubusercontent.com/moewcorp/AutoAction/master/gifs/ExampleDNC.gif"
+        ],
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1679737273"
+    },
+    {
+        "Author": "Taurenkey & Puni.sh",
+        "Name": "Artisan",
+        "Punchline": "A 'simple' crafting plugin.",
+        "Description": "The all-in-one crafting plugin.",
+        "Changelog": "- Please visit the Discord for a full list of updates.",
+        "InternalName": "Artisan",
+        "AssemblyVersion": "1.0.6.4",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "crafting"
+        ],
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://love.puni.sh/resources/artisan.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1679737273"
+    }
+]
