@@ -11,7 +11,7 @@
             "radar",
             "plugin"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XCount/master/Data/XC.png",
         "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679737273"
+        "LastUpdate": "1679737597"
     },
     {
         "Author": "moewcorp",
@@ -46,7 +46,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679737273"
+        "LastUpdate": "1679737597"
     },
     {
         "Author": "Taurenkey & Puni.sh",
@@ -69,6 +69,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679737273"
+        "LastUpdate": "1679737597"
     }
 ]
