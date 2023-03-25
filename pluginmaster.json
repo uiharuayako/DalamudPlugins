@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679738405"
+        "LastUpdate": "1679738530"
     },
     {
         "Author": "Asvel",
@@ -35,7 +35,7 @@
             "Chat",
             "Utility"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 7,
         "LoadPriority": 0,
         "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "IsHide": false,
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679738405"
+        "LastUpdate": "1679738530"
     },
     {
         "Author": "moewcorp",
@@ -69,7 +69,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679738405"
+        "LastUpdate": "1679738530"
     },
     {
         "Author": "Taurenkey & Puni.sh",
@@ -92,6 +92,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679738405"
+        "LastUpdate": "1679738530"
     }
 ]
