@@ -1,0 +1,19 @@
+{
+  "Author": "Asvel",
+  "Name": "Literal Map Link",
+  "InternalName": "LiteralMapLink",
+  "AssemblyVersion": "1.1.2.0",
+  "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.",
+  "ApplicableVersion": "any",
+  "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
+  "Tags": [
+    "Chat",
+    "Utility"
+  ],
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "Punchline": "Turn map coordinates literal into interactable map link.",
+  "AcceptsFeedback": true
+}
