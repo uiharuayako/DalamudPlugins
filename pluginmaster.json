@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679738530"
+        "LastUpdate": "1680250695"
     },
     {
         "Author": "Asvel",
@@ -43,7 +43,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679738530"
+        "LastUpdate": "1680250695"
     },
     {
         "Author": "moewcorp",
@@ -69,7 +69,31 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679738530"
+        "LastUpdate": "1680250695"
+    },
+    {
+        "Author": "Uiharu",
+        "Name": "XIVHardWareMonitor",
+        "Punchline": "\u786c\u4ef6\u76d1\u63a7\uff0c\u4fe1\u606f\u6765\u81ea\u5f00\u6e90\u9879\u76eeLibre HardWare Monitor",
+        "Description": "\u786c\u4ef6\u76d1\u63a7\uff0c\u8f93\u5165/hardware\u6253\u5f00\u4e3b\u7a97\u53e3",
+        "InternalName": "XIVHardWareMonitor",
+        "AssemblyVersion": "0.1.0.0",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Monitor",
+            "plugin",
+            "HardWare"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XIVHardWareMonitor/master/Data/icon.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1680250695"
     },
     {
         "Author": "Taurenkey & Puni.sh",
@@ -92,6 +116,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1679738530"
+        "LastUpdate": "1680250695"
     }
 ]
