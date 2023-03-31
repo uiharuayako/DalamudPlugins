@@ -1,0 +1,20 @@
+{
+  "Author": "Uiharu",
+  "Name": "XIVHardWareMonitor",
+  "InternalName": "XIVHardWareMonitor",
+  "AssemblyVersion": "0.1.0.0",
+  "Description": "硬件监控，输入/hardware打开主窗口",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "Monitor",
+    "plugin",
+    "HardWare"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XIVHardWareMonitor/master/Data/icon.png",
+  "Punchline": "硬件监控，信息来自开源项目Libre HardWare Monitor",
+  "AcceptsFeedback": true
+}
