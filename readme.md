@@ -7,3 +7,4 @@
 3. AutoAction by moewcorp：自动循环
 4. LiteralMapLink by Asvel：文字转地图坐标 Api7 版本
 5. XIVHardWareMonitor by Uiharu：硬件监控，功能包括显示信息到状态栏，硬件数据超过阈值报警到聊天栏，目前还在测试阶段，可能显示的硬件不全
+6. XIVFakeNews：愚人节快乐~
