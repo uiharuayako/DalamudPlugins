@@ -20,7 +20,31 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680318560"
+        "LastUpdate": "1680531996"
+    },
+    {
+        "Author": "Meli & perchbird",
+        "Name": "Orchestrion Plugin",
+        "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
+        "Description": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\nif you want to know later! Add favorite songs to separate them from the rest.\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
+        "Changelog": "Update for 6.2.",
+        "InternalName": "orchestrion",
+        "AssemblyVersion": "1.8.4.7",
+        "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "bgm",
+            "music"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1680531996"
     },
     {
         "Author": "uiharu",
@@ -42,7 +66,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680318560"
+        "LastUpdate": "1680531996"
     },
     {
         "Author": "Asvel",
@@ -65,7 +89,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680318560"
+        "LastUpdate": "1680531996"
     },
     {
         "Author": "moewcorp",
@@ -91,7 +115,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680318560"
+        "LastUpdate": "1680531996"
     },
     {
         "Author": "Uiharu",
@@ -115,7 +139,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680318560"
+        "LastUpdate": "1680531996"
     },
     {
         "Author": "Taurenkey & Puni.sh",
@@ -138,6 +162,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680318560"
+        "LastUpdate": "1680531996"
     }
 ]
