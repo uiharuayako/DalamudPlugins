@@ -5,7 +5,7 @@
         "Punchline": "\u8ba1\u7b97\u4f60\u5468\u56f4\u7269\u4f53\u7684\u6570\u91cf",
         "Description": "/xc \u663e\u793agui",
         "InternalName": "XCount",
-        "AssemblyVersion": "0.1.0.0",
+        "AssemblyVersion": "0.1.0.1",
         "ApplicableVersion": "any",
         "Tags": [
             "radar",
@@ -20,7 +20,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680531996"
+        "LastUpdate": "1680553913"
     },
     {
         "Author": "Meli & perchbird",
@@ -44,7 +44,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680531996"
+        "LastUpdate": "1680553913"
     },
     {
         "Author": "uiharu",
@@ -66,7 +66,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680531996"
+        "LastUpdate": "1680553913"
     },
     {
         "Author": "Asvel",
@@ -89,7 +89,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680531996"
+        "LastUpdate": "1680553913"
     },
     {
         "Author": "moewcorp",
@@ -115,7 +115,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680531996"
+        "LastUpdate": "1680553913"
     },
     {
         "Author": "Uiharu",
@@ -139,7 +139,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680531996"
+        "LastUpdate": "1680553913"
     },
     {
         "Author": "Taurenkey & Puni.sh",
@@ -162,6 +162,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680531996"
+        "LastUpdate": "1680553913"
     }
 ]
