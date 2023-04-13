@@ -1,0 +1,20 @@
+{
+  "Author": "Uiharu",
+  "Name": "Speak Beaver",
+  "InternalName": "SpeakBeaver",
+  "AssemblyVersion": "0.1.0.1",
+  "Description": "/speak 打开主界面，主界面里有命令帮助和使用说明",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "speak",
+    "voice",
+    "beavers"
+  ],
+  "DalamudApiLevel": 7,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "LoadPriority": 0,
+  "IconUrl": "https://raw.githubusercontent.com/uiharuayako/SpeakBeaverDalamud/master/Data/beaver.png",
+  "Punchline": "大河狸会帮助你输入信息，但是代价是什么呢",
+  "AcceptsFeedback": true
+}

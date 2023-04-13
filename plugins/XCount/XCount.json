@@ -2,7 +2,7 @@
   "Author": "Uiharu",
   "Name": "XCount",
   "InternalName": "XCount",
-  "AssemblyVersion": "0.1.0.2",
+  "AssemblyVersion": "0.1.0.3",
   "Description": "/xc 显示gui",
   "ApplicableVersion": "any",
   "Tags": [
@@ -13,7 +13,7 @@
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
-  "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XCount/master/Data/XC.png",
+  "IconUrl": "https://raw.githubusercontent.com/uiharuayako/SpeakBeaverDalamud/master/Data/beaver.png",
   "Punchline": "计算你周围物体的数量",
   "AcceptsFeedback": true
 }
