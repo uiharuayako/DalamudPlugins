@@ -1,97 +1,5 @@
 [
     {
-        "Author": "Uiharu",
-        "Name": "XCount",
-        "Punchline": "\u8ba1\u7b97\u4f60\u5468\u56f4\u7269\u4f53\u7684\u6570\u91cf",
-        "Description": "/xc \u663e\u793agui",
-        "InternalName": "XCount",
-        "AssemblyVersion": "0.1.0.2",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "radar",
-            "plugin"
-        ],
-        "DalamudApiLevel": 7,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XCount/master/Data/XC.png",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1680558833"
-    },
-    {
-        "Author": "Meli & perchbird",
-        "Name": "Orchestrion Plugin i18n",
-        "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
-        "Description": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\nif you want to know later! Add favorite songs to separate them from the rest.\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
-        "Changelog": "Update for 6.2.",
-        "InternalName": "orchestrion_i18n",
-        "AssemblyVersion": "1.8.4.7",
-        "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "bgm",
-            "music"
-        ],
-        "DalamudApiLevel": 7,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion_i18n/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion_i18n/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion_i18n/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1680558833"
-    },
-    {
-        "Author": "uiharu",
-        "Name": "FAKE NEWS",
-        "Punchline": "\u53d1\u9001\u5047\u6d88\u606f",
-        "Description": "\u8c03\u7528ChatGui\u5728\u672c\u5730\u53d1\u9001\u5047\u6d88\u606f\uff0c\u548csonar\u53d1\u7684\u539f\u7406\u5e94\u8be5\u5dee\u4e0d\u591a",
-        "InternalName": "XIVFakeNews",
-        "AssemblyVersion": "0.0.0.1",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "entertainment"
-        ],
-        "DalamudApiLevel": 7,
-        "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XIVFakeNews/main/icon.png",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1680558833"
-    },
-    {
-        "Author": "Asvel",
-        "Name": "Literal Map Link",
-        "Punchline": "Turn map coordinates literal into interactable map link.",
-        "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.",
-        "InternalName": "LiteralMapLink",
-        "AssemblyVersion": "1.1.2.0",
-        "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
-        "ApplicableVersion": "any",
-        "Tags": [
-            "Chat",
-            "Utility"
-        ],
-        "DalamudApiLevel": 7,
-        "LoadPriority": 0,
-        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
-        "IsHide": false,
-        "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
-        "DownloadCount": 0,
-        "LastUpdate": "1680558833"
-    },
-    {
         "Author": "moewcorp",
         "Name": "Auto Action",
         "Punchline": "Teach you how to perform better in combat! -- gamous",
@@ -115,31 +23,31 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/AutoCombo_CN/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680558833"
+        "LastUpdate": "1681403669"
     },
     {
         "Author": "Uiharu",
-        "Name": "XIVHardWareMonitor",
-        "Punchline": "\u786c\u4ef6\u76d1\u63a7\uff0c\u4fe1\u606f\u6765\u81ea\u5f00\u6e90\u9879\u76eeLibre HardWare Monitor",
-        "Description": "\u786c\u4ef6\u76d1\u63a7\uff0c\u8f93\u5165/hardware\u6253\u5f00\u4e3b\u7a97\u53e3",
-        "InternalName": "XIVHardWareMonitor",
+        "Name": "Speak Beaver",
+        "Punchline": "\u5927\u6cb3\u72f8\u4f1a\u5e2e\u52a9\u4f60\u8f93\u5165\u4fe1\u606f\uff0c\u4f46\u662f\u4ee3\u4ef7\u662f\u4ec0\u4e48\u5462",
+        "Description": "/speak \u6253\u5f00\u4e3b\u754c\u9762\uff0c\u4e3b\u754c\u9762\u91cc\u6709\u547d\u4ee4\u5e2e\u52a9\u548c\u4f7f\u7528\u8bf4\u660e",
+        "InternalName": "SpeakBeaver",
         "AssemblyVersion": "0.1.0.1",
         "ApplicableVersion": "any",
         "Tags": [
-            "Monitor",
-            "plugin",
-            "HardWare"
+            "speak",
+            "voice",
+            "beavers"
         ],
         "DalamudApiLevel": 7,
         "LoadPriority": 0,
-        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XIVHardWareMonitor/master/Data/icon.png",
-        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
+        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/SpeakBeaverDalamud/master/Data/beaver.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/SpeakBeaver/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/SpeakBeaver/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/SpeakBeaver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680558833"
+        "LastUpdate": "1681403669"
     },
     {
         "Author": "Taurenkey & Puni.sh",
@@ -162,6 +70,122 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1680558833"
+        "LastUpdate": "1681403669"
+    },
+    {
+        "Author": "Asvel",
+        "Name": "Literal Map Link",
+        "Punchline": "Turn map coordinates literal into interactable map link.",
+        "Description": "Turn map coordinates literal into interactable map link when you post in-game chat messages.",
+        "InternalName": "LiteralMapLink",
+        "AssemblyVersion": "1.1.2.0",
+        "RepoUrl": "https://github.com/Asvel/ffxiv-literal-map-link",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Chat",
+            "Utility"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/LiteralMapLink/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1681403669"
+    },
+    {
+        "Author": "Meli & perchbird",
+        "Name": "Orchestrion Plugin i18n",
+        "Punchline": "Adds a simple front-end for browsing and changing the in-game BGM.",
+        "Description": "Orchestrion Plugin allows you to change the currently playing in-game BGM. It includes\na curated list of the most accurate in-game song titles, so you know exactly what's playing,\nif you want to know later! Add favorite songs to separate them from the rest.\nNote: This plugin does not currently allow you to play actual orchestrion songs.",
+        "Changelog": "Update for 6.2.",
+        "InternalName": "orchestrion_i18n",
+        "AssemblyVersion": "1.8.4.7",
+        "RepoUrl": "https://github.com/lmcintyre/OrchestrionPlugin",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "bgm",
+            "music"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion_i18n/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion_i18n/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion_i18n/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1681403669"
+    },
+    {
+        "Author": "uiharu",
+        "Name": "FAKE NEWS",
+        "Punchline": "\u53d1\u9001\u5047\u6d88\u606f",
+        "Description": "\u8c03\u7528ChatGui\u5728\u672c\u5730\u53d1\u9001\u5047\u6d88\u606f\uff0c\u548csonar\u53d1\u7684\u539f\u7406\u5e94\u8be5\u5dee\u4e0d\u591a",
+        "InternalName": "XIVFakeNews",
+        "AssemblyVersion": "0.0.0.1",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "entertainment"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XIVFakeNews/main/icon.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1681403669"
+    },
+    {
+        "Author": "Uiharu",
+        "Name": "XCount",
+        "Punchline": "\u8ba1\u7b97\u4f60\u5468\u56f4\u7269\u4f53\u7684\u6570\u91cf",
+        "Description": "/xc \u663e\u793agui",
+        "InternalName": "XCount",
+        "AssemblyVersion": "0.1.0.3",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "radar",
+            "plugin"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/SpeakBeaverDalamud/master/Data/beaver.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1681403669"
+    },
+    {
+        "Author": "Uiharu",
+        "Name": "XIVHardWareMonitor",
+        "Punchline": "\u786c\u4ef6\u76d1\u63a7\uff0c\u4fe1\u606f\u6765\u81ea\u5f00\u6e90\u9879\u76eeLibre HardWare Monitor",
+        "Description": "\u786c\u4ef6\u76d1\u63a7\uff0c\u8f93\u5165/hardware\u6253\u5f00\u4e3b\u7a97\u53e3",
+        "InternalName": "XIVHardWareMonitor",
+        "AssemblyVersion": "0.1.0.2",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "Monitor",
+            "plugin",
+            "HardWare"
+        ],
+        "DalamudApiLevel": 7,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XIVHardWareMonitor/master/Data/icon.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1681403669"
     }
 ]
