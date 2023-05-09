@@ -27,10 +27,12 @@
 ## 其他开源插件的国服可用版本  
 1. Artisan by Puni.sh 汉化 by Yarukon：自动制作
 2. AutoAction by moewcorp：自动循环
-3. LiteralMapLink by Asvel：文字转地图坐标 Api7 版本
 
 # 更新日志：
 ## 2023-5-8
 - XCount更新0.1.0.4版本：增加冒险者监测功能，修复了一些bug
 - XCount更新0.1.0.5版本：有个文本忘记写到设置里了=、=
 - XCount更新0.1.0.6版本：修复会把角色界面/雇员装备界面/幻化台界面的模特也算成玩家的bug，增加不可视玩家检测功能
+
+## 2023-5-10
+- 更新API8，移除LiteralMapLink，原库作者已更新API 8，赞美大佬

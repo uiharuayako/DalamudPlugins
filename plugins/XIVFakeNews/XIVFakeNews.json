@@ -2,14 +2,18 @@
   "Author": "uiharu",
   "Name": "FAKE NEWS",
   "InternalName": "XIVFakeNews",
-  "AssemblyVersion": "0.0.0.1",
+  "AssemblyVersion": "0.0.0.2",
   "Description": "调用ChatGui在本地发送假消息，和sonar发的原理应该差不多",
   "ApplicableVersion": "any",
   "Tags": [
     "entertainment"
   ],
-  "DalamudApiLevel": 7,
+  "DalamudApiLevel": 8,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XIVFakeNews/main/icon.png",
-  "Punchline": "发送假消息"
+  "Punchline": "发送假消息",
+  "AcceptsFeedback": true
 }
