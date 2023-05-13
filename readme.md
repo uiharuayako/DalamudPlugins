@@ -26,7 +26,7 @@
 
 ## 其他开源插件的国服可用版本  
 1. Artisan by Puni.sh 汉化 by Yarukon：自动制作
-2. AutoAction by moewcorp：自动循环
+2. ~~AutoAction by moewcorp：自动循环~~小店你m死了
 
 # 更新日志：
 ## 2023-5-8
