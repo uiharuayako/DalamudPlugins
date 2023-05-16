@@ -31,6 +31,9 @@
 4. LiFu by 牙刷
 
 # 更新日志：
+## 2023-5-17
+- Fakenews更新0.0.0.3，marge pr#1 by @NiGuangOwO
+
 ## 2023-5-16
 - 增加RP-TBX 6.3 汉化 by @AsterOcclu
 
