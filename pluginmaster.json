@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/Artisan/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683981670"
+        "LastUpdate": "1684239641"
     },
     {
         "Author": "Uiharu",
@@ -45,7 +45,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/SpeakBeaver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/SpeakBeaver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683981670"
+        "LastUpdate": "1684239641"
     },
     {
         "Author": "Uiharu",
@@ -68,7 +68,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683981670"
+        "LastUpdate": "1684239641"
     },
     {
         "Author": "uiharu",
@@ -90,7 +90,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683981670"
+        "LastUpdate": "1684239641"
     },
     {
         "Author": "Meli & perchbird",
@@ -114,7 +114,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion_i18n/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/orchestrion_i18n/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683981670"
+        "LastUpdate": "1684239641"
     },
     {
         "Author": "Uiharu",
@@ -138,6 +138,26 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1683981670"
+        "LastUpdate": "1684239641"
+    },
+    {
+        "Author": "AST",
+        "Name": "RP-TBX",
+        "Punchline": "RP'ers toolbox - Kitsune Release",
+        "Description": "RP'ers toolbox - Kitsune Release\n Just a gal tryna fix a plugin.",
+        "InternalName": "RoleplayersToolbox",
+        "AssemblyVersion": "0.3.5",
+        "RepoUrl": "https://github.com/ML-Astra/RP-TBX",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 8,
+        "LoadPriority": 0,
+        "IconUrl": "https://raw.githubusercontent.com/ML-Astra/RP-TBX/main/icon.png",
+        "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/RoleplayersToolbox/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/RoleplayersToolbox/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/RoleplayersToolbox/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1684239641"
     }
 ]
