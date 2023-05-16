@@ -6,6 +6,9 @@
   "Description": "RP'ers toolbox - Kitsune Release\n Just a gal tryna fix a plugin.",
   "ApplicableVersion": "any",
   "RepoUrl": "https://github.com/ML-Astra/RP-TBX",
+  "Tags": [
+    "RolePlay"
+  ],
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
