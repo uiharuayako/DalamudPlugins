@@ -25,10 +25,10 @@
 第一次使用一定要参阅：[插件主页](https://github.com/uiharuayako/SpeakBeaverDalamud)的API白嫖和设置指南
 
 ## 其他开源插件的国服可用版本  
-1. Artisan by Puni.sh 汉化 by Yarukon：自动制作
-2. ~~AutoAction by moewcorp：自动循环~~小店你m死了
+1. ~~Artisan by Puni.sh 汉化 by Yarukon：自动制作~~ 放别处了
+2. ~~AutoAction by moewcorp：自动循环~~ 小店你m死了，6.3就算了，今后不再支持
 3. RP-TBX by annaclemens Fixed by Astralis Translated to cn by AsterOcclu
-4. LiFu by 牙刷
+4. ~~LiFu by 牙刷~~ 放别处了
 
 # 更新日志：
 ## 2023-5-17
