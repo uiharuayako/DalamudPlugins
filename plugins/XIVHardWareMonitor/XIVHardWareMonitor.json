@@ -2,7 +2,7 @@
   "Author": "Uiharu",
   "Name": "XIVHardWareMonitor",
   "InternalName": "XIVHardWareMonitor",
-  "AssemblyVersion": "0.1.0.3",
+  "AssemblyVersion": "0.1.0.4",
   "Description": "硬件监控，输入/hardware打开主窗口",
   "ApplicableVersion": "any",
   "Tags": [

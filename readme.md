@@ -13,7 +13,7 @@
 6. 不可视玩家监测功能，玩家不可视的最主要原因是切换区域。
 
 ### XIVHardWareMonitor：硬件监控
-1. 显示信息到状态栏
+1. 显示信息到状态栏（数据源：LibreHardwareMonitorLib或MSIAfterburner）
 2. 硬件数据超过阈值报警到聊天栏
 
 ### XIVFakeNews：愚人节快乐~  
@@ -31,6 +31,10 @@
 4. ~~LiFu by 牙刷~~ 放别处了
 
 # 更新日志：
+
+## 2023-5-27
+- XIVHardWareMonitor：硬件监控更新0.1.0.4，更换国际化方式为ECommons，支持从小飞机获取数据
+
 ## 2023-5-17
 - Fakenews更新0.0.0.3，marge pr#1 by @NiGuangOwO
 
