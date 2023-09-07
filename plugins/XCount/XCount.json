@@ -2,7 +2,7 @@
   "Author": "Uiharu",
   "Name": "XCount",
   "InternalName": "XCount",
-  "AssemblyVersion": "0.1.1.3",
+  "AssemblyVersion": "0.2.0.0",
   "Description": "/xc 显示gui",
   "ApplicableVersion": "any",
   "Tags": [
@@ -12,6 +12,7 @@
   "DalamudApiLevel": 8,
   "LoadRequiredState": 0,
   "LoadSync": false,
+  "CanUnloadAsync": false,
   "LoadPriority": 0,
   "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XCount/master/Data/XC.png",
   "Punchline": "计算你周围物体的数量",
