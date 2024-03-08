@@ -2,7 +2,7 @@
   "Author": "Uiharu",
   "Name": "Speak Beaver",
   "InternalName": "SpeakBeaver",
-  "AssemblyVersion": "0.1.0.4",
+  "AssemblyVersion": "0.1.0.5",
   "Description": "/speak 打开主界面，主界面里有命令帮助和使用说明，/svoice 打开语音控制界面",
   "ApplicableVersion": "any",
   "Tags": [
@@ -10,7 +10,7 @@
     "voice",
     "beavers"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,

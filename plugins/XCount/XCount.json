@@ -2,14 +2,14 @@
   "Author": "Uiharu",
   "Name": "XCount",
   "InternalName": "XCount",
-  "AssemblyVersion": "0.2.0.1",
+  "AssemblyVersion": "0.2.0.2",
   "Description": "/xc 显示gui",
   "ApplicableVersion": "any",
   "Tags": [
     "radar",
     "plugin"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 9,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "LoadPriority": 0,
