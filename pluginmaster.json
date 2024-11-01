@@ -21,7 +21,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVHardWareMonitor/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1729526734"
+        "LastUpdate": "1730465300"
     },
     {
         "Author": "Uiharu",
@@ -44,7 +44,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XCount/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1729526734"
+        "LastUpdate": "1730465300"
     },
     {
         "Author": "UnknownX",
@@ -68,7 +68,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/DalamudRepoBrowser/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1729526734"
+        "LastUpdate": "1730465300"
     },
     {
         "Author": "AST",
@@ -91,7 +91,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/RoleplayersToolbox/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/RoleplayersToolbox/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1729526734"
+        "LastUpdate": "1730465300"
     },
     {
         "Author": "Cytraen",
@@ -110,7 +110,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/CombatCursorContainment/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/CombatCursorContainment/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1729526734"
+        "LastUpdate": "1730465300"
     },
     {
         "Author": "Uiharu",
@@ -134,7 +134,7 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/SpeakBeaver/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/SpeakBeaver/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1729526734"
+        "LastUpdate": "1730465300"
     },
     {
         "Author": "Uiharu\uff0cNiGuangOwO",
@@ -142,12 +142,12 @@
         "Punchline": "\u53d1\u9001\u5047\u6d88\u606f",
         "Description": "\u8c03\u7528ChatGui\u5728\u672c\u5730\u53d1\u9001\u5047\u6d88\u606f\uff0c\u548csonar\u53d1\u7684\u539f\u7406\u5e94\u8be5\u5dee\u4e0d\u591a",
         "InternalName": "XIVFakeNews",
-        "AssemblyVersion": "0.0.0.3",
+        "AssemblyVersion": "0.0.0.4",
         "ApplicableVersion": "any",
         "Tags": [
             "entertainment"
         ],
-        "DalamudApiLevel": 8,
+        "DalamudApiLevel": 10,
         "LoadPriority": 0,
         "IconUrl": "https://raw.githubusercontent.com/uiharuayako/XIVFakeNews/main/icon.png",
         "DownloadLinkInstall": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
@@ -156,6 +156,6 @@
         "DownloadLinkTesting": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
         "DownloadLinkUpdate": "https://github.com/uiharuayako/DalamudPlugins/raw/main/plugins/XIVFakeNews/latest.zip",
         "DownloadCount": 0,
-        "LastUpdate": "1729526734"
+        "LastUpdate": "1730465300"
     }
 ]
