@@ -2,13 +2,13 @@
   "Author": "Uiharu，NiGuangOwO",
   "Name": "FAKE NEWS",
   "InternalName": "XIVFakeNews",
-  "AssemblyVersion": "0.0.0.3",
+  "AssemblyVersion": "0.0.0.4",
   "Description": "调用ChatGui在本地发送假消息，和sonar发的原理应该差不多",
   "ApplicableVersion": "any",
   "Tags": [
     "entertainment"
   ],
-  "DalamudApiLevel": 8,
+  "DalamudApiLevel": 10,
   "LoadRequiredState": 0,
   "LoadSync": false,
   "CanUnloadAsync": false,
